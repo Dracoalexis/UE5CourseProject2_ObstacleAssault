@@ -19,6 +19,10 @@ C++’ta nasıl sınıf oluşturulur
 
 C++ sınıflarının Blueprint çocuk sınıfları
 
+Unreal Engine'de Hareketli Platform Oluşturma
+
+Bölüm Tasarımı
+
 UPROPERTY ve UE_LOG kullanımı
 
 FString, FVector, FRotator yapıları
@@ -31,5 +35,6 @@ Projede kullanılan tüm asset’ler Unreal Engine’in varsayılan içeriğinde
 ℹ️ Not
 Bu proje tamamen öğrenme ve portföy amacıyla paylaşılmıştır.
 Ticari bir amaçla kullanılmamalıdır.
+
 
 👨‍💻 Geliştirici: Anıl Emre Akkoç
