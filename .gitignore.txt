@@ -1,0 +1,50 @@
+# Unreal Engine auto-generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Build artifacts
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+.vs/
+.vscode/
+*.opensdf
+*.sdf
+*.sln.docstates
+*.user
+*.userprefs
+
+# Compiled source
+*.dll
+*.exe
+*.lib
+*.app
+*.dylib
+*.pdb
+*.obj
+*.o
+*.class
+
+# Logs
+*.log
+
+# Crash Reports
+*.dmp
+
+# MacOS files
+.DS_Store
+
+# Windows Thumbnail Cache
+Thumbs.db
+
+# IDE config files
+.idea/
+*.iml
+
+# Other
+*.tmp
+*.bak
